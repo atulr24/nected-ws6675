@@ -3,9 +3,9 @@
  "category": "decisionTable",
  "data": {
   "createdAt": "2025-11-24T10:38:22.642Z",
-  "updatedAt": "2025-11-24T10:39:24.305266Z",
+  "updatedAt": "2025-11-24T10:45:52.634662Z",
   "isDeleted": false,
-  "testedAt": "2025-11-24T10:39:24.304Z",
+  "testedAt": "2025-11-24T10:45:52.634Z",
   "publishedAt": "0001-01-01T00:00:00Z",
   "entityId": "a1039212-092b-44a2-9e8d-03315b4cc900",
   "name": "Test1Rule",
@@ -81,7 +81,7 @@
      "sourceType": "globalVar",
      "dataType": "string",
      "nodeType": "params",
-     "attribute": "name",
+     "attribute": "Test1",
      "parent": "rule_02",
      "siblingIndex": 1
     }
@@ -121,13 +121,13 @@
    "entityType": "rule",
    "entityId": "a1039212-092b-44a2-9e8d-03315b4cc900",
    "entityVersion": "draft",
-   "entityNodeId": "name",
+   "entityNodeId": "Test1",
    "dependencyType": "variable",
-   "dependencyId": "fe6ce873-4f3e-4b27-9fb7-004ca0bf6150",
+   "dependencyId": "c806756f-3d2b-4753-83f1-028fd9474b8b",
    "dependencyVersion": "live",
    "isDeleted": false,
-   "createdAt": "2025-11-24T10:39:17.813011Z",
-   "updatedAt": "2025-11-24T10:39:17.813011Z"
+   "createdAt": "2025-11-24T10:45:49.225006Z",
+   "updatedAt": "2025-11-24T10:45:49.225006Z"
   }
  ]
 }
