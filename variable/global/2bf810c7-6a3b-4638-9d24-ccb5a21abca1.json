@@ -1,0 +1,23 @@
+{
+ "entityType": "variable",
+ "data": {
+  "createdAt": "2025-11-24T12:06:40.75Z",
+  "updatedAt": "2025-11-24T12:06:40.75Z",
+  "isDeleted": false,
+  "commitId": "",
+  "status": "",
+  "lastVersion": "",
+  "isLive": null,
+  "commitInfo": {
+   "timeStamp": "0001-01-01T00:00:00Z"
+  },
+  "entityId": "2bf810c7-6a3b-4638-9d24-ccb5a21abca1",
+  "name": "delete1",
+  "category": "globalVar",
+  "scope": "workspace",
+  "dataType": "string",
+  "value": {
+   "data": "asd"
+  }
+ }
+}
